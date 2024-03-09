@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋, I'm bramilch.
+
+<br>
+
+### 📊 Github Stats
+<a href='https://github.com/bramilch/github-stats-transparent'>
+  
+![Stats Overview](https://github.com/bramilch/github-stats-transparent/blob/output/generated/overview.svg)
+![Most Used Languages](https://github.com/bramilch/github-stats-transparent/blob/output/generated/languages.svg)
+
+</a>
 
 <!--
 **bramilch/bramilch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
