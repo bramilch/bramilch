@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm bramilch.
-<a href='https://twitter.com/bramilch'><img align='left' alt="twitter" src="https://github.com/bramilch/bramilch/blob/main/assets/X_icon.svg" height='18px'/></a>
-<a href='https://www.kaggle.com/bramilch/'><img alt="kaggle" src="https://github.com/bramilch/bramilch/blob/main/assets/kaggle_icon.svg" height='18px'/></a>
+<a href='https://twitter.com/bramilch'><img align='left' alt="twitter" src="https://github.com/bramilch/bramilch/blob/main/assets/X_icon.svg" height='30px'/></a>
+<a href='https://www.kaggle.com/bramilch/'><img alt="kaggle" src="https://github.com/bramilch/bramilch/blob/main/assets/kaggle_icon.svg" height='30px'/></a>
 
 <br>
 
