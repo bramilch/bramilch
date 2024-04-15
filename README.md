@@ -6,6 +6,8 @@
 
 - My Portfolio 👉 <a href='https://www.notion.so/bramilch/bramilch-s-Portfolio-e113abbb507741ff8289e35c554bd587?pvs=4'><img alt="notion" src="https://github.com/bramilch/bramilch/blob/main/assets/Notion-logo.svg" height='20px'/></a>
 
+<br>
+
 My Skillset
 - Main Programming Languages: <img src="https://img.shields.io/badge/Python-black?style=flat&logo=Python&logoColor=#3776AB"/>, <img src="https://img.shields.io/badge/MySQL-black?style=flat&logo=MySQL&logoColor=#4479A1"/>
 - Sub Programming Languages: <img src="https://img.shields.io/badge/-black?style=flat&logo=r&logoColor=#276DC3"/>, <img src="https://img.shields.io/badge/-black?style=flat&logo=C&logoColor=#A8B9CC"/>, <img src="https://img.shields.io/badge/Linux-black?style=flat&logo=Linux&logoColor=#FCC624"/>, <img src="https://img.shields.io/badge/Kali_Linux-black?style=flat&logo=KaliLinux&logoColor=white"/>
