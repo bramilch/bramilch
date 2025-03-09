@@ -19,7 +19,7 @@ My Skillset
 
 <br>
 
-- I am currently developing my skills in Data Science, Data Engineering, ML, and Full Stack Web Development.
+- I am currently developing my skills in Full Stack Web Development, Data Science, Data Engineering, and Machine Learning.
 - What to focus on next: <img src="https://img.shields.io/badge/PyTorch-black?style=flat&logo=PyTorch&logoColor=#EE4C2C"/>, <img src="https://img.shields.io/badge/Firebase-black?style=flat&logo=firebase&logoColor=#FFCA28"/>, <img src="https://img.shields.io/badge/Keras-black?style=flat&logo=Keras&logoColor=darkred"/>, <img src="https://img.shields.io/badge/scala-black?style=flat&logo=scala&logoColor=#DC322F"/>, etc.
 - Embarking later on an Expansion: <img src="https://img.shields.io/badge/C++-black?style=flat&logo=cplusplus&logoColor=#00599C"/>, <img src="https://img.shields.io/badge/Rust-black?style=flat&logo=Rust&logoColor=#000000"/>
 
