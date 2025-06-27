@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm bramilch 😄.
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="jamespark408769" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://kr.linkedin.com/in/jamespark408769?trk=profile-badge">James P.</a></div>
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"><div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="jamespark408769" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://kr.linkedin.com/in/jamespark408769?trk=profile-badge">James P.</a></div></script>
 <a href='https://twitter.com/bramilch'><img alt="X" src="https://img.shields.io/badge/-black?style=flat&logo=X&logoColor=white" height='30px'/></a>
 <a href='https://www.kaggle.com/bramilch/'><img alt="kaggle" src="https://github.com/bramilch/bramilch/blob/main/assets/kaggle_icon.svg" height='30px'/></a>
 
