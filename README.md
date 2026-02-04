@@ -2,10 +2,6 @@
 
 <br>
 
-- My Portfolio 👉 <a href='https://www.notion.so/bramilch/bramilch-s-Portfolio-e113abbb507741ff8289e35c554bd587?pvs=4'><img alt="notion" src="https://github.com/bramilch/bramilch/blob/main/assets/Notion-logo.svg" height='20px'/></a>
-
-<br>
-
 My Skillset
 - Main Programming Languages: <img src="https://img.shields.io/badge/Linux-black?style=flat&logo=Linux&logoColor=#FCC624"/>/<img src="https://img.shields.io/badge/Python-black?style=flat&logo=Python&logoColor=#3776AB"/>/<img src="https://img.shields.io/badge/Java-black?style=flat&logo=OpenJDK&logoColor=#f89820">, <img src="https://img.shields.io/badge/HTML5-black?style=flat&logo=HTML5&logoColor=white">/<img src="https://img.shields.io/badge/CSS3-black?style=flat&logo=CSS3&logoColor=white">/<img src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=Javascript&logoColor=yellow"/>/<img src="https://img.shields.io/badge/TypeScript-black?style=flat&logo=TypeScript&logoColor=#3178C6"/>
 - Sub Programming Languages: <img src="https://img.shields.io/badge/-black?style=flat&logo=C&logoColor=#A8B9CC"/>, <img src="https://img.shields.io/badge/-black?style=flat&logo=r&logoColor=#276DC3"/>
